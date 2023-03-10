@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="990"
+	maxImageHeight="660"
+	indexPageName="002.html"
+
+>
+  <image imageURL="images/DSC09170.jpg"
+	thumbURL="thumbs/DSC09170.jpg"
+	linkURL="images/DSC09170.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\!!!FUENTES\BCSRL\CASA VILLA LA ANGOSTURA\DSC09170.JPG">
+    <title><![CDATA[DSC09170]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC09171.jpg"
+	thumbURL="thumbs/DSC09171.jpg"
+	linkURL="images/DSC09171.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\!!!FUENTES\BCSRL\CASA VILLA LA ANGOSTURA\DSC09171.JPG">
+    <title><![CDATA[DSC09171]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC09208.jpg"
+	thumbURL="thumbs/DSC09208.jpg"
+	linkURL="images/DSC09208.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\!!!FUENTES\BCSRL\CASA VILLA LA ANGOSTURA\DSC09208.JPG">
+    <title><![CDATA[DSC09208]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC09209 (1).jpg"
+	thumbURL="thumbs/DSC09209 (1).jpg"
+	linkURL="images/DSC09209 (1).jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\!!!FUENTES\BCSRL\CASA VILLA LA ANGOSTURA\DSC09209 (1).JPG">
+    <title><![CDATA[DSC09209 (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC09215.jpg"
+	thumbURL="thumbs/DSC09215.jpg"
+	linkURL="images/DSC09215.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\!!!FUENTES\BCSRL\CASA VILLA LA ANGOSTURA\DSC09215.JPG">
+    <title><![CDATA[DSC09215]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC09218.jpg"
+	thumbURL="thumbs/DSC09218.jpg"
+	linkURL="images/DSC09218.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\!!!FUENTES\BCSRL\CASA VILLA LA ANGOSTURA\DSC09218.JPG">
+    <title><![CDATA[DSC09218]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC09219 (1).jpg"
+	thumbURL="thumbs/DSC09219 (1).jpg"
+	linkURL="images/DSC09219 (1).jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\!!!FUENTES\BCSRL\CASA VILLA LA ANGOSTURA\DSC09219 (1).JPG">
+    <title><![CDATA[DSC09219 (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC09232.jpg"
+	thumbURL="thumbs/DSC09232.jpg"
+	linkURL="images/DSC09232.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\!!!FUENTES\BCSRL\CASA VILLA LA ANGOSTURA\DSC09232.JPG">
+    <title><![CDATA[DSC09232]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC09236.jpg"
+	thumbURL="thumbs/DSC09236.jpg"
+	linkURL="images/DSC09236.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\!!!FUENTES\BCSRL\CASA VILLA LA ANGOSTURA\DSC09236.JPG">
+    <title><![CDATA[DSC09236]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

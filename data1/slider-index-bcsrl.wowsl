@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>false</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>14</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>slider-index-bcsrl</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>kenburns</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>700</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/pulse/</ImageTemplate>
+            <ImageTemplateName>Pulse</ImageTemplateName>
+            <ImageWidth>1700</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>D:/Mis Sitios Web/BCSRL/slider-index.html</PublishFileName>
+            <PublishIndex>slider-index.html</PublishIndex>
+            <PublishPath>D:/Mis Sitios Web/BCSRL</PublishPath>
+            <PublishPreview>false</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>3</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Tahoma</TemplateFont>
+            <TemplateName>pulse</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>D:/Mis Sitios Web/BCSRL/data1/images/1.jpg</url>
+                <title>1</title>
+                <filesize>795360</filesize>
+            </Image>
+            <Image>
+                <url>D:/Mis Sitios Web/BCSRL/data1/images/2.jpg</url>
+                <title>2</title>
+                <filesize>1411788</filesize>
+            </Image>
+            <Image>
+                <url>D:/Mis Sitios Web/BCSRL/data1/images/3.jpg</url>
+                <title>3</title>
+                <filesize>647735</filesize>
+            </Image>
+            <Image>
+                <url>D:/Mis Sitios Web/BCSRL/data1/images/4.jpg</url>
+                <title>4</title>
+                <filesize>527598</filesize>
+            </Image>
+            <Image>
+                <url>D:/Mis Sitios Web/BCSRL/data1/images/5.jpg</url>
+                <title>5</title>
+                <filesize>388308</filesize>
+            </Image>
+            <Image>
+                <url>D:/Mis Sitios Web/BCSRL/data1/images/6.jpg</url>
+                <title>6</title>
+                <filesize>333601</filesize>
+            </Image>
+            <Image>
+                <url>D:/Mis Sitios Web/BCSRL/data1/images/7.jpg</url>
+                <title>7</title>
+                <filesize>410733</filesize>
+            </Image>
+            <Image>
+                <url>D:/Mis Sitios Web/BCSRL/data1/images/8.jpg</url>
+                <title>8</title>
+                <filesize>690147</filesize>
+            </Image>
+            <Image>
+                <url>D:/Mis Sitios Web/BCSRL/data1/images/9.jpg</url>
+                <title>9</title>
+                <filesize>318983</filesize>
+            </Image>
+            <Image>
+                <url>D:/Mis Sitios Web/BCSRL/data1/images/10.jpg</url>
+                <title>10</title>
+                <filesize>317781</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

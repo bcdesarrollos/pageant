@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="990"
+	maxImageHeight="660"
+	indexPageName="001.html"
+
+>
+  <image imageURL="images/img01.jpeg"
+	thumbURL="thumbs/img01.jpeg"
+	linkURL="images/img01.jpeg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\proyectos\001\img01.jpeg">
+    <title><![CDATA[img01]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/img02.jpeg"
+	thumbURL="thumbs/img02.jpeg"
+	linkURL="images/img02.jpeg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\proyectos\001\img02.jpeg">
+    <title><![CDATA[img02]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/img03.jpeg"
+	thumbURL="thumbs/img03.jpeg"
+	linkURL="images/img03.jpeg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\proyectos\001\img03.jpeg">
+    <title><![CDATA[img03]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/img04.jpeg"
+	thumbURL="thumbs/img04.jpeg"
+	linkURL="images/img04.jpeg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\proyectos\001\img04.jpeg">
+    <title><![CDATA[img04]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/img05.jpg"
+	thumbURL="thumbs/img05.jpg"
+	linkURL="images/img05.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\proyectos\001\img05.jpg">
+    <title><![CDATA[img05]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/img06.jpg"
+	thumbURL="thumbs/img06.jpg"
+	linkURL="images/img06.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\proyectos\001\img06.jpg">
+    <title><![CDATA[img06]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/img07.jpg"
+	thumbURL="thumbs/img07.jpg"
+	linkURL="images/img07.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\proyectos\001\img07.jpg">
+    <title><![CDATA[img07]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/img08.jpg"
+	thumbURL="thumbs/img08.jpg"
+	linkURL="images/img08.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\proyectos\001\img08.jpg">
+    <title><![CDATA[img08]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/img09.jpg"
+	thumbURL="thumbs/img09.jpg"
+	linkURL="images/img09.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\proyectos\001\img09.jpg">
+    <title><![CDATA[img09]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/img10.jpg"
+	thumbURL="thumbs/img10.jpg"
+	linkURL="images/img10.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\proyectos\001\img10.jpg">
+    <title><![CDATA[img10]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/img11.jpg"
+	thumbURL="thumbs/img11.jpg"
+	linkURL="images/img11.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\proyectos\001\img11.jpg">
+    <title><![CDATA[img11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

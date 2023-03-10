@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="990"
+	maxImageHeight="660"
+	indexPageName="003.html"
+
+>
+  <image imageURL="images/P3130042.jpg"
+	thumbURL="thumbs/P3130042.jpg"
+	linkURL="images/P3130042.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\!!!FUENTES\BCSRL\CASA VILLA LA ANGOSTURA 270 M2\P3130042.JPG">
+    <title><![CDATA[P3130042]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P3130027.jpg"
+	thumbURL="thumbs/P3130027.jpg"
+	linkURL="images/P3130027.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\!!!FUENTES\BCSRL\CASA VILLA LA ANGOSTURA 270 M2\P3130027.JPG">
+    <title><![CDATA[P3130027]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P3130033.jpg"
+	thumbURL="thumbs/P3130033.jpg"
+	linkURL="images/P3130033.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\!!!FUENTES\BCSRL\CASA VILLA LA ANGOSTURA 270 M2\P3130033.JPG">
+    <title><![CDATA[P3130033]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P3130034.jpg"
+	thumbURL="thumbs/P3130034.jpg"
+	linkURL="images/P3130034.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\!!!FUENTES\BCSRL\CASA VILLA LA ANGOSTURA 270 M2\P3130034.JPG">
+    <title><![CDATA[P3130034]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P3130036.jpg"
+	thumbURL="thumbs/P3130036.jpg"
+	linkURL="images/P3130036.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\!!!FUENTES\BCSRL\CASA VILLA LA ANGOSTURA 270 M2\P3130036.JPG">
+    <title><![CDATA[P3130036]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P3130039.jpg"
+	thumbURL="thumbs/P3130039.jpg"
+	linkURL="images/P3130039.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Mis Sitios Web\BCSRL\!!!FUENTES\BCSRL\CASA VILLA LA ANGOSTURA 270 M2\P3130039.JPG">
+    <title><![CDATA[P3130039]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
